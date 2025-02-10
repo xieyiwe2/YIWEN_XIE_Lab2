@@ -31,54 +31,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/12033095972",
-        "amenity": "drinking_water"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4892954,
-          41.8904503
-        ]
-      },
-      "id": "node/12033095972"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/12097935090",
-        "amenity": "drinking_water",
-        "bottle": "yes"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.4870232,
-          41.8924751
-        ]
-      },
-      "id": "node/12097935090"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4455114193",
-        "name": "Qi",
-        "organic": "only",
-        "shop": "health_food"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4314997,
-          43.6995429
-        ]
-      },
-      "id": "node/4455114193"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4621046053",
         "addr:city": "Toronto",
         "addr:housenumber": "224",
